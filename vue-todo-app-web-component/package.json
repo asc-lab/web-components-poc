@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-wc": "vue build --target wc --name vue-custom ./src/App.vue",
+    "build-wc": "vue build --target wc --name vue-todo-app ./src/App.vue",
+    "run-wc": "cd dist && static-server -i demo.html",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

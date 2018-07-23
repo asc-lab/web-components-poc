@@ -17,7 +17,7 @@ yarn run build
 
 ## Build as Web Component
 ```
-vue build --target wc --name vue-custom ./src/App.vue
+vue build --target wc --name vue-todo-app ./src/App.vue
 ```
 * `--name` is component name
 * `./src.App.vue` is path to component (more info in vue-cli docs)
@@ -27,10 +27,20 @@ Short version:
 yarn build-wc
 ```
 
-## Run demo
+## Run as Web Component
+First, you must install little server:
 ```
 yarn global add static-server
+```
+
+Next:
+```
 cd dist && static-server -i demo.html
+```
+
+Short version:
+```
+yarn run-wc
 ```
 
 ## Lints and fixes files
