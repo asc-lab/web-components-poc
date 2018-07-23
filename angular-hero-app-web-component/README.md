@@ -8,7 +8,7 @@ Actually, this solution have a lot of hurdles to production use - check section 
 
 ## How it works
 * in folder `demo` there is a simple HTML page to which Custom Element created by us has been added (check line 10,14,15)
-* `elements-build.js` is custom npm script which combines the necessary files and moves them to the appropriate folder. This is needed because the current version of Angular CLI has no support to build Angular Elements
+* `elements-build.js` is custom npm script which combines the necessary files and moves them to the appropriate folder. This is needed because the current version of Angular CLI has no support to build Angular Elements.
 
 ## Run
 ```

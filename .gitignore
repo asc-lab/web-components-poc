@@ -37,8 +37,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-*/dist/*
-*/node_modules/*
+**/dist/**
+**/node_modules/**
 
 *local.settings.json*
 
