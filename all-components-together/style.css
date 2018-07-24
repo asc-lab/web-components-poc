@@ -1,0 +1,8 @@
+.component-container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.component-container > h1 {
+    text-align: center;
+}
