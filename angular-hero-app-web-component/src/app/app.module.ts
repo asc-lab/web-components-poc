@@ -44,7 +44,7 @@ import { AppComponent } from './app.component';
 export class AppModule {
   constructor(private injector: Injector) {
     const el = createCustomElement(AppComponent, { injector });
-    customElements.define('hero-app-element', el);
+    customElements.define('angular-hero-app', el);
   }
   ngDoBootstrap() {}
 }

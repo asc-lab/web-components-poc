@@ -1,5 +1,7 @@
 # Vue Web Components - TODO App
 
+Based on [TodoMVC](https://vuejs.org/v2/examples/todomvc.html).
+
 ## Project setup
 ```
 yarn install

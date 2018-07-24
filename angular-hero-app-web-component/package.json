@@ -5,7 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:elements": "ng build --prod --output-hashing none && node elements-build.js",
+    "build-wc": "ng build --prod --output-hashing none && node elements-build.js",
+    "run-wc": "cd demo && static-server",
     "test": "ng test",
     "lint": "ng lint"
   },
