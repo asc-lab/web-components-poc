@@ -1,6 +1,6 @@
 # Angular Elements - Hero App
 
-This is just a demo of Angular Elements that makes [Hero App from Angular Docs](https://angular.io/tutorial) as [Web Component](https://www.webcomponents.org/).
+This is a demo of Angular Elements that makes [Hero App from Angular Docs](https://angular.io/tutorial) as [Web Component](https://www.webcomponents.org/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
