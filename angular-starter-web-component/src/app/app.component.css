@@ -1,0 +1,8 @@
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.container > h1 {
+  text-align: center;
+}
