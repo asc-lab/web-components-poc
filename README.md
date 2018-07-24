@@ -9,3 +9,6 @@ Also, in repo can be found:
 * [Angular starter project](angular-starter-web-component) for your first experience and first attempts with Angular Elements!
 
 Check README from specific repo for more info!
+
+## License
+This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
