@@ -10,5 +10,8 @@ Also, in repo can be found:
 
 Check README from specific repo for more info!
 
+Check out our blog if you want to learn more:
+- [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
+
 ## License
 This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
