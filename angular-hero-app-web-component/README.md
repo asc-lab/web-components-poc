@@ -14,7 +14,7 @@ Actually, this solution have a lot of hurdles to production use - check section 
 ```
 npm install
 npm install -g static-server
-npm run build:elements
+npm run build-wc
 cd demo
 static-server
 ```
